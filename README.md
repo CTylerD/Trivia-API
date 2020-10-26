@@ -18,7 +18,7 @@ Project prompt:
 
 ### Project Structure
 
-The `./frontend` directory contains a complete React frontend to consume the data from the Flask server. [View the README.md within ./frontend for more details.](./frontend/README.md)
+The `./frontend` directory contains a complete React frontend to consume the data from the Flask server [View the README.md within ./frontend for more details.](./frontend/README.md)
 
 
 ## Contributing Authors
