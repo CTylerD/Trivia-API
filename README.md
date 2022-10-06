@@ -1,7 +1,7 @@
 # Trivia Web App API
 ## Udacity Full Stack Web Development Nanodegree - Project #2
 
-![Trivia App](https://drive.google.com/uc?export=view&id=1ik5oqjCNJBkmWNPEPNRSblkVkvXL7fxI)
+![Trivia App](./Trivia.png)
 
 ## Project Structure
 This project consists of a React frontend that consumes the trivia app data provided from the Flask server.
