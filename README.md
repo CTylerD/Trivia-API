@@ -1,5 +1,4 @@
 # Trivia Web App API
-## Udacity Full Stack Web Development Nanodegree - Project #2
 
 ![Trivia App](./Trivia.png)
 
@@ -10,6 +9,5 @@ The `./frontend` and `./backend` directories contain their own complete README f
 
 ## Contributing Authors
 C. Tyler Dennis  
-Udacity
 ## Licensing
 This project is released under the [MIT License](https://opensource.org/licenses/MIT)
